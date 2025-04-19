@@ -1,0 +1,22 @@
+C:\Users\user\Documents\Poo\MiPrimerWF\MiPrimerWF\bin\Debug\MiPrimerWF.exe.config
+C:\Users\user\Documents\Poo\MiPrimerWF\MiPrimerWF\bin\Debug\MiPrimerWF.exe
+C:\Users\user\Documents\Poo\MiPrimerWF\MiPrimerWF\bin\Debug\MiPrimerWF.pdb
+C:\Users\user\Documents\Poo\MiPrimerWF\MiPrimerWF\obj\Debug\MiPrimerWF.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Poo\MiPrimerWF\MiPrimerWF\obj\Debug\MiPrimerWF.Properties.Resources.resources
+C:\Users\user\Documents\Poo\MiPrimerWF\MiPrimerWF\obj\Debug\MiPrimerWF.csproj.GenerateResource.cache
+C:\Users\user\Documents\Poo\MiPrimerWF\MiPrimerWF\obj\Debug\MiPrimerWF.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Poo\MiPrimerWF\MiPrimerWF\obj\Debug\MiPrimerWF.exe
+C:\Users\user\Documents\Poo\MiPrimerWF\MiPrimerWF\obj\Debug\MiPrimerWF.pdb
+C:\Users\user\Documents\Poo\MiPrimerWF\MiPrimerWF\obj\Debug\MiPrimerWF.Frm_Principal.resources
+C:\Users\user\Documents\Poo\MiPrimerWF\MiPrimerWF\obj\Debug\MiPrimerWF.Frm_Calculadora.resources
+C:\Users\user\Documents\Cuarto Año\1 Primer Cuatrimestre\Programacion orientada a Objetos\POO Asignacion\MiPrimerWF\MiPrimerWF\bin\Debug\MiPrimerWF.exe.config
+C:\Users\user\Documents\Cuarto Año\1 Primer Cuatrimestre\Programacion orientada a Objetos\POO Asignacion\MiPrimerWF\MiPrimerWF\bin\Debug\MiPrimerWF.exe
+C:\Users\user\Documents\Cuarto Año\1 Primer Cuatrimestre\Programacion orientada a Objetos\POO Asignacion\MiPrimerWF\MiPrimerWF\bin\Debug\MiPrimerWF.pdb
+C:\Users\user\Documents\Cuarto Año\1 Primer Cuatrimestre\Programacion orientada a Objetos\POO Asignacion\MiPrimerWF\MiPrimerWF\obj\Debug\MiPrimerWF.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Cuarto Año\1 Primer Cuatrimestre\Programacion orientada a Objetos\POO Asignacion\MiPrimerWF\MiPrimerWF\obj\Debug\MiPrimerWF.Frm_Calculadora.resources
+C:\Users\user\Documents\Cuarto Año\1 Primer Cuatrimestre\Programacion orientada a Objetos\POO Asignacion\MiPrimerWF\MiPrimerWF\obj\Debug\MiPrimerWF.Frm_Principal.resources
+C:\Users\user\Documents\Cuarto Año\1 Primer Cuatrimestre\Programacion orientada a Objetos\POO Asignacion\MiPrimerWF\MiPrimerWF\obj\Debug\MiPrimerWF.Properties.Resources.resources
+C:\Users\user\Documents\Cuarto Año\1 Primer Cuatrimestre\Programacion orientada a Objetos\POO Asignacion\MiPrimerWF\MiPrimerWF\obj\Debug\MiPrimerWF.csproj.GenerateResource.cache
+C:\Users\user\Documents\Cuarto Año\1 Primer Cuatrimestre\Programacion orientada a Objetos\POO Asignacion\MiPrimerWF\MiPrimerWF\obj\Debug\MiPrimerWF.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Cuarto Año\1 Primer Cuatrimestre\Programacion orientada a Objetos\POO Asignacion\MiPrimerWF\MiPrimerWF\obj\Debug\MiPrimerWF.exe
+C:\Users\user\Documents\Cuarto Año\1 Primer Cuatrimestre\Programacion orientada a Objetos\POO Asignacion\MiPrimerWF\MiPrimerWF\obj\Debug\MiPrimerWF.pdb

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Cuarto A\u00F1o\\1 Primer Cuatrimestre\\Programacion orientada a Objetos\\POO Asignacion\\MiPrimerWF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28084EA8-A79E-4710-8BA0-1F5B469EB3EF}|MiPrimerWF\\MiPrimerWF.csproj|C:\\Users\\user\\Documents\\Cuarto A\u00F1o\\1 Primer Cuatrimestre\\Programacion orientada a Objetos\\POO Asignacion\\MiPrimerWF\\miprimerwf\\frm_calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28084EA8-A79E-4710-8BA0-1F5B469EB3EF}|MiPrimerWF\\MiPrimerWF.csproj|solutionrelative:miprimerwf\\frm_calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28084EA8-A79E-4710-8BA0-1F5B469EB3EF}|MiPrimerWF\\MiPrimerWF.csproj|c:\\users\\user\\documents\\cuarto a\u00F1o\\1 primer cuatrimestre\\programacion orientada a objetos\\poo asignacion\\miprimerwf\\miprimerwf\\frm_calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28084EA8-A79E-4710-8BA0-1F5B469EB3EF}|MiPrimerWF\\MiPrimerWF.csproj|solutionrelative:miprimerwf\\frm_calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28084EA8-A79E-4710-8BA0-1F5B469EB3EF}|MiPrimerWF\\MiPrimerWF.csproj|C:\\Users\\user\\Documents\\Cuarto A\u00F1o\\1 Primer Cuatrimestre\\Programacion orientada a Objetos\\POO Asignacion\\MiPrimerWF\\miprimerwf\\frm_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28084EA8-A79E-4710-8BA0-1F5B469EB3EF}|MiPrimerWF\\MiPrimerWF.csproj|solutionrelative:miprimerwf\\frm_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28084EA8-A79E-4710-8BA0-1F5B469EB3EF}|MiPrimerWF\\MiPrimerWF.csproj|C:\\Users\\user\\Documents\\Cuarto A\u00F1o\\1 Primer Cuatrimestre\\Programacion orientada a Objetos\\POO Asignacion\\MiPrimerWF\\miprimerwf\\frm_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28084EA8-A79E-4710-8BA0-1F5B469EB3EF}|MiPrimerWF\\MiPrimerWF.csproj|solutionrelative:miprimerwf\\frm_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Cuarto A\u00F1o\\1 Primer Cuatrimestre\\Programacion orientada a Objetos\\POO Asignacion\\MiPrimerWF\\MiPrimerWF\\Frm_Calculadora.cs",
+              "RelativeDocumentMoniker": "MiPrimerWF\\Frm_Calculadora.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Cuarto A\u00F1o\\1 Primer Cuatrimestre\\Programacion orientada a Objetos\\POO Asignacion\\MiPrimerWF\\MiPrimerWF\\Frm_Calculadora.cs",
+              "RelativeToolTip": "MiPrimerWF\\Frm_Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T00:01:27.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_Calculadora.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Cuarto A\u00F1o\\1 Primer Cuatrimestre\\Programacion orientada a Objetos\\POO Asignacion\\MiPrimerWF\\MiPrimerWF\\Frm_Calculadora.cs",
+              "RelativeDocumentMoniker": "MiPrimerWF\\Frm_Calculadora.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Cuarto A\u00F1o\\1 Primer Cuatrimestre\\Programacion orientada a Objetos\\POO Asignacion\\MiPrimerWF\\MiPrimerWF\\Frm_Calculadora.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MiPrimerWF\\Frm_Calculadora.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T23:46:01.549Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_Principal.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Cuarto A\u00F1o\\1 Primer Cuatrimestre\\Programacion orientada a Objetos\\POO Asignacion\\MiPrimerWF\\MiPrimerWF\\Frm_Principal.cs",
+              "RelativeDocumentMoniker": "MiPrimerWF\\Frm_Principal.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Cuarto A\u00F1o\\1 Primer Cuatrimestre\\Programacion orientada a Objetos\\POO Asignacion\\MiPrimerWF\\MiPrimerWF\\Frm_Principal.cs",
+              "RelativeToolTip": "MiPrimerWF\\Frm_Principal.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T23:29:41.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frm_Principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Cuarto A\u00F1o\\1 Primer Cuatrimestre\\Programacion orientada a Objetos\\POO Asignacion\\MiPrimerWF\\MiPrimerWF\\Frm_Principal.cs",
+              "RelativeDocumentMoniker": "MiPrimerWF\\Frm_Principal.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Cuarto A\u00F1o\\1 Primer Cuatrimestre\\Programacion orientada a Objetos\\POO Asignacion\\MiPrimerWF\\MiPrimerWF\\Frm_Principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MiPrimerWF\\Frm_Principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T23:04:15.714Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
