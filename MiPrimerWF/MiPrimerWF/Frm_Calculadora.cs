@@ -29,6 +29,7 @@ namespace MiPrimerWF
             txt_Saludo.Text = "";
         }*/
         //AQUI HUBO UN CAMBIO//
+        //AQUI HUBO 2 CAMBIO EN OTRA CUENTA PRA VERIFICAR QUE TODO FUNCIONA//
 
         private void txt_Saludo_TextChanged(object sender, EventArgs e)
         {
