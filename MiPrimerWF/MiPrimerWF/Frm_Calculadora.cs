@@ -28,6 +28,7 @@ namespace MiPrimerWF
         {
             txt_Saludo.Text = "";
         }*/
+        //AQUI HUBO UN CAMBIO//
 
         private void txt_Saludo_TextChanged(object sender, EventArgs e)
         {
